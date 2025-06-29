@@ -1,0 +1,11 @@
+# Change Background Color html {
+  background-color: #fffacd;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #ffa07a;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
